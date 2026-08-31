@@ -2,7 +2,7 @@ class Gatekeeper < Formula
   desc "Simple Gatekeeper management helper for macOS"
   homepage "https://github.com/foofoo5/homebrew-gatekeeper"
   url "https://github.com/foofoo5/homebrew-gatekeeper/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "31e3bf5b877bbf008ef2ec11e5137eaa2c29fdb4c468eb207294f33248ed4b28"
+  sha256 "6cc47a7caff8bdecbd28e2ae43b79eed6435d02400c216285af895d5d3d5a512"
   version "1.0.0"
   license "MIT"
 
